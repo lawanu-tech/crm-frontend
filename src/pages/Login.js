@@ -174,7 +174,7 @@ function Login() {
                 <div className="input-group my-2">
                   <input
                     type="submit"
-                    className="form-control btn btn-primary"
+                    className="form-control btn btn-info text-white fw-bolder"
                     value={showSignup ? "Sign Up" : "Log In"}
                   />
                 </div>
