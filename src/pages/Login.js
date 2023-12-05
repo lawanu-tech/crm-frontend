@@ -99,9 +99,8 @@ function Login() {
         >
           <div className="row m-2 ">
             <div>
-              <h4 className="text-center ">
-                {showSignup ? "Sign up" : "Login"}
-              </h4>
+              <h4 className="text-center fw-bolder">CUSTPRO</h4>
+           
               <form onSubmit={showSignup ? signupFn : loginFn}>
                 <div className="input-group m-1">
                   <input

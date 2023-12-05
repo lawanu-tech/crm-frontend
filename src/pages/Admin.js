@@ -227,7 +227,7 @@ function Admin() {
       {/* Welcome text */}
       <div className="container p-5">{/*1st container to give space */}
         <h3 className="text-center text-danger">
-          Welcome, {localStorage.getItem("name")}!
+          Welcome to CustPro, {localStorage.getItem("name")}!
         </h3>
         <p className="text-muted text-center">
           Take a quick look at your admin stats below
