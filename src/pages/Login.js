@@ -191,6 +191,16 @@ function Login() {
           </div>
         </div>
       </div>
+      <div className="bg-light text-light" >
+            <div className="my-auto p-2">
+            <h6 className="text-center text-info my-auto">
+            
+        © Copyright 2023 Built with ♡ by Lawanu Borthakur
+    
+            </h6>
+            </div>
+            
+        </div>
     </div>
   );
 }
